@@ -1,1 +1,11 @@
 1) Python 3.7
+   https://www.python.org/downloads/release/python-376/
+   Run the installer to install Python.
+   Once completed, open Command Prompt(type "cmd" in Windows Search).
+   Type "python3 --version" to make sure the installation is complete.
+   
+2) Anaconda Navigator
+   https://www.anaconda.com/distribution/#download-section
+   Download the Python 3.7 version.
+   Run the installer, and once completed, open the Navigator and install Jupyter Notebook.
+   
